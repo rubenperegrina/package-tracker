@@ -1,0 +1,14 @@
+.map-container {
+  height: 300px;
+  width: auto;
+  z-index: 1;
+}
+
+.map-frame {
+  height: 100%;
+}
+
+#map {
+  height: 100%;
+  @apply rounded-xl
+}
